@@ -1,12 +1,12 @@
 {
-    "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
-    "metadata": {
-        "type": "Notebook",
-        "displayName": "CommonTransforms",
-        "description": "New notebook"
-    },
-    "config": {
-        "version": "2.0",
-        "logicalId": "eb329439-3fff-47cd-8cdc-17399ae33226"
-    }
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "CommonTransforms",
+    "description": "New notebook"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1c161ac2-0e4a-b8ea-3983-7fb03796cd17"
+  }
 }

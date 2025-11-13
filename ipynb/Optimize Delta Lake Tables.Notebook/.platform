@@ -1,12 +1,12 @@
 {
-    "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
-    "metadata": {
-        "type": "Notebook",
-        "displayName": "Optimize Delta Lake Tables",
-        "description": "New notebook"
-    },
-    "config": {
-        "version": "2.0",
-        "logicalId": "eb329439-3fff-47cd-8cdc-17399ae33226"
-    }
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Optimize Delta Lake Tables",
+    "description": "New notebook"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "efdcb294-35b6-d851-ffec-1ebd7b9370fc"
+  }
 }

@@ -1,12 +1,12 @@
 {
-    "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
-    "metadata": {
-        "type": "Notebook",
-        "displayName": "EnvSettings",
-        "description": "New notebook"
-    },
-    "config": {
-        "version": "2.0",
-        "logicalId": "eb329439-3fff-47cd-8cdc-17399ae33226"
-    }
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "EnvSettings",
+    "description": "New notebook"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e26a4b6a-b372-9946-b1d2-143b8d9b6b80"
+  }
 }

@@ -1,12 +1,12 @@
 {
-    "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
-    "metadata": {
-        "type": "Notebook",
-        "displayName": "entra-functions",
-        "description": "Reusable Entra functions"
-    },
-    "config": {
-        "version": "2.0",
-        "logicalId": "eb329439-3fff-47cd-8cdc-17399ae33226"
-    }
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "entra-functions",
+    "description": "Reusable Entra functions"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2ea7ac4d-bdcc-103c-7888-d39bfcd39124"
+  }
 }
