@@ -49,7 +49,7 @@
               "typeProperties": {
                 "schema": "ELT",
                 "table": "IngestDefinition",
-                "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
+                "database": "b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
                 "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
@@ -293,7 +293,7 @@
               "type": "AzureSqlTable",
               "schema": [],
               "typeProperties": {
-                "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
+                "database": "b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
                 "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
@@ -321,7 +321,7 @@
               "typeProperties": {
                 "schema": "ELT",
                 "table": "L1TransformDefinition",
-                "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
+                "database": "b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
                 "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
@@ -617,7 +617,7 @@
                     }
                   }
                 ],
-                "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
+                "database": "b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
                 "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
@@ -666,7 +666,7 @@
             }
           ],
           "scriptBlockExecutionTimeout": "02:00:00",
-          "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
+          "database": "b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
         },
         "externalReferences": {
           "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
@@ -715,7 +715,7 @@
             }
           ],
           "scriptBlockExecutionTimeout": "02:00:00",
-          "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
+          "database": "b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
         },
         "externalReferences": {
           "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
