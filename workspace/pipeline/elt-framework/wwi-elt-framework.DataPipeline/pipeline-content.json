@@ -52,7 +52,7 @@
                 "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
-                "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
+                "connection": "35a34332-40d7-45ab-9a30-29106da3c6c4"
               }
             }
           },
@@ -296,7 +296,7 @@
                 "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
-                "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
+                "connection": "35a34332-40d7-45ab-9a30-29106da3c6c4"
               }
             }
           },
@@ -324,7 +324,7 @@
                 "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
-                "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
+                "connection": "35a34332-40d7-45ab-9a30-29106da3c6c4"
               }
             }
           },
@@ -620,7 +620,7 @@
                 "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
               },
               "externalReferences": {
-                "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
+                "connection": "35a34332-40d7-45ab-9a30-29106da3c6c4"
               }
             }
           ]
@@ -669,7 +669,7 @@
           "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
         },
         "externalReferences": {
-          "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
+          "connection": "35a34332-40d7-45ab-9a30-29106da3c6c4"
         }
       },
       {
@@ -718,7 +718,7 @@
           "database": "controlDB-b65d4f41-f929-4cbf-8302-be4ee3b9e6da"
         },
         "externalReferences": {
-          "connection": "71a1dc8d-1f37-4303-9e30-cd909ec55f0b"
+          "connection": "35a34332-40d7-45ab-9a30-29106da3c6c4"
         }
       }
     ],
