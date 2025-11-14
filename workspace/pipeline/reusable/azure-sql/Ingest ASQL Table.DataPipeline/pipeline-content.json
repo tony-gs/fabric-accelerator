@@ -119,7 +119,7 @@
               "type": "AzureSqlTable",
               "schema": [],
               "typeProperties": {
-                "database": "WideWorldImporters"
+                "database": "WideWorldImporters-Standard"
               },
               "externalReferences": {
                 "connection": "542142b6-e340-4b29-849c-fdda608a4971"
@@ -211,7 +211,7 @@
             "type": "AzureSqlTable",
             "schema": [],
             "typeProperties": {
-              "database": "WideWorldImporters"
+              "database": "WideWorldImporters-Standard"
             },
             "externalReferences": {
               "connection": "542142b6-e340-4b29-849c-fdda608a4971"
